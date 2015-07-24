@@ -1,0 +1,1 @@
+Build commands easily and format texts to send ESC/P, ESC/P2 and 9-pin ESC/P impact-matrix printers. Based on minimalist commands set compatibles with EPSON, BIXOLON and BEMATECH printers.
